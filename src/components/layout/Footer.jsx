@@ -9,7 +9,7 @@ export default function Footer() {
         {/* 🔥 Left - Branding */}
         <div className="text-center md:text-left">
           <p className="text-xl font-bold bg-gradient-to-r from-blue-400 via-purple-500 to-pink-500 bg-clip-text text-transparent">
-            SAIRAM<span className="text-white">.</span>
+            SAIRAM .T
           </p>
           <p className="text-gray-400 text-sm mt-1">
             Banking Systems Engineer · India 🇮🇳
