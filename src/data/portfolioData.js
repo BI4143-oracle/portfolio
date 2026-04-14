@@ -21,9 +21,9 @@ export const CORE_STACK = [
 
 export const ROLES = [
   "💻 Oracle PL/SQL Engineer",
-  "⚡ Spring Boot Architect",
   "🏦 Banking Systems Developer",
   "🚀 Fintech Problem Solver",
+  "☕ Java & Spring Boot Developer",
 ];
 
 export const SKILL_GROUPS = [
