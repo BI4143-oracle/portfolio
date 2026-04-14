@@ -52,10 +52,7 @@ export default function Footer() {
           <p className="text-gray-500 text-xs">
             © {new Date().getFullYear()} All rights reserved
           </p>
-          <p className="text-gray-600 text-[10px] mt-1">
-            Built with React ⚛️ & Tailwind 🚀
-          </p>
-        </div>
+          </div>
       </div>
     </footer>
   );

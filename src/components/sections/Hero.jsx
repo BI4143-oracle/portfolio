@@ -131,7 +131,7 @@ export default function Hero() {
             {/* Buttons */}
             <div className="flex gap-4 mb-10">
               <a
-                href="#projects"
+                href="#experience"
                 className="px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 
                 text-white rounded-xl font-semibold 
                 shadow-lg shadow-cyan-500/20 
