@@ -35,8 +35,8 @@ export const SKILL_GROUPS = [
       { name: "Oracle SQL", level: 95 },
       { name: "PL/SQL", level: 95 },
       { name: "Java", level: 85 },
-      { name: "Spring Boot", level: 80 },
-      { name: "JavaScript", level: 65 },
+      { name: "JavaScript", level: 80 },
+      { name: "Spring Boot", level: 65 },
     ],
   },
   {
@@ -46,8 +46,8 @@ export const SKILL_GROUPS = [
     skills: [
       { name: "REST APIs", level: 90 },
       { name: "SOAP APIs", level: 85 },
-      { name: "Jasper Reports", level: 78 },
-      { name: "HTML / CSS", level: 70 },
+      { name: "Jasper Reports", level: 80 },
+      { name: "HTML / CSS", level: 75 },
     ],
   },
   {
@@ -67,7 +67,7 @@ export const SKILL_GROUPS = [
     color: "violet",
     skills: [
       { name: "Git", level: 85 },
-      { name: "Linux / Ubuntu", level: 75 },
+      { name: "Linux / Ubuntu", level: 85 },
       { name: "IntelliJ IDEA", level: 88 },
       { name: "Postman", level: 85 },
     ],

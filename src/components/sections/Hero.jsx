@@ -147,6 +147,21 @@ export default function Hero() {
               >
                 💬 Contact
               </a>
+
+               {/* NEW: Download Resume */}
+              <a
+                href="/Sairam_Developer_Role.pdf"
+                download
+                className="px-6 py-3 rounded-xl 
+                bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500
+                text-white font-semibold 
+                shadow-lg shadow-purple-500/20
+                hover:scale-105 hover:shadow-pink-400/40 
+                transition flex items-center gap-2"
+              >
+                ⬇️ Download Resume
+              </a>
+
             </div>
 
             {/* Contact */}
