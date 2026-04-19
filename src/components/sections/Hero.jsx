@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { ROLES, STATS, CORE_STACK } from "../../data/portfolioData.js";
-import MyPhoto from "../../assets/Myphoto.jpeg";
+import MyPhoto from "../../assets/MyImage.jpeg";
 
 /* ---------------- GRID BACKGROUND ---------------- */
 function GridBackground() {
