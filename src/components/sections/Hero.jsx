@@ -112,9 +112,12 @@ export default function Hero() {
             </div>
 
             {/* Name */}
-            <h1 className="text-6xl md:text-7xl font-display mb-4 bg-gradient-to-r from-white via-blue-200 to-cyan-400 bg-clip-text text-transparent">
-              Sai Ram .T
-            </h1>
+           <h1 className="text-4xl sm:text-5xl md:text-6xl font-display mb-4">
+  <span className="bg-gradient-to-r from-white via-blue-200 to-cyan-400 bg-clip-text text-transparent">
+    Sai Ram
+  </span>{" "}
+  <span className="text-cyan-400">Tulagapu</span>
+</h1>
 
             {/* Typewriter */}
             <div className="mb-6">
@@ -129,7 +132,7 @@ export default function Hero() {
             </p>
 
             {/* Buttons */}
-            <div className="flex gap-4 mb-10">
+            <div className="flex flex-col sm:flex-row gap-4 mb-10 w-full max-w-md">
               <a
                 href="#experience"
                 className="px-6 py-3 bg-gradient-to-r from-cyan-500 to-blue-500 
